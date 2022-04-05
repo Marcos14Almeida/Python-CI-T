@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 
 
-Arquivos Python para o processo seletivo da CI&T
+Arquivos Python para o processo seletivo da CI&T com mini-desafios.
 
 ## Como usar o Projeto 
 
